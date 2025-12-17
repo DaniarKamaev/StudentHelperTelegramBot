@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelperAPI", "StudentHelperAPI\StudentHelperAPI.csproj", "{235C6EF7-64AD-4FE9-AF8D-0D842D138ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelperTelegramBor", "StudentHelperTelegramBor\StudentHelperTelegramBor.csproj", "{EEC60929-1C21-4CEE-AC84-953830DAC2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235C6EF7-64AD-4FE9-AF8D-0D842D138ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235C6EF7-64AD-4FE9-AF8D-0D842D138ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235C6EF7-64AD-4FE9-AF8D-0D842D138ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235C6EF7-64AD-4FE9-AF8D-0D842D138ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC60929-1C21-4CEE-AC84-953830DAC2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC60929-1C21-4CEE-AC84-953830DAC2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC60929-1C21-4CEE-AC84-953830DAC2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC60929-1C21-4CEE-AC84-953830DAC2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD30913-905C-4FE3-96C7-97BAC1DA7620}
+	EndGlobalSection
+EndGlobal
